@@ -1,0 +1,14 @@
+In this program, your goal is to take a WORD and reverse the letters in it.
+
+You will have to write a function reverseWord() that takes a string "str" and reverses the order.
+Keep in mind, this is for a SINGULAR WORD, not a sentence.
+
+To test, here are some expected input/outputs:
+
+I: reverseWord("Hello");
+O: olleH
+
+I: reverseWord("racecar");
+O: racecar
+
+(^ That one's neat, huh?)

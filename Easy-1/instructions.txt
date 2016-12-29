@@ -1,0 +1,17 @@
+In this program, your goal is to take the lengths of two sides of a right triangle, and find the length of the missing side.
+
+This will require TWO functions:
+
+hypotenuse(a, b), which finds the hypotenuse "c" of the right triangle, given the two legs "a" and "b"
+
+OR
+
+leg(a, c), which finds the missing leg "b" of a right triangle, given leg "a", and the hypotenuse "c".
+
+To test, here are some expected input/outputs:
+
+I: hypotenuse(3,4);
+O: c = 5
+
+I: leg(3,5);
+O: b = 4

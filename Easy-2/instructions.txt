@@ -1,0 +1,5 @@
+In this program, your goal is to find and log the current time, using Date()
+
+To test, here are some expected input/outputs:
+
+Outputs should be formatted like this: "The current time is _:__"

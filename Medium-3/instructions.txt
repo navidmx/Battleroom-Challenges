@@ -1,0 +1,8 @@
+In this program, your goal is to convert given celsius to fahrenheit.
+
+You may have to research the formula, and with a given celsius temperature "c" be able to convert it to fahrenheit, "f" with a function celsiusConvert()
+
+To test, here are some expected input/outputs:
+
+I: celsiusConvert(60);
+O: 60 degrees celcius is 140 degrees fahrenheit.

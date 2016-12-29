@@ -1,0 +1,12 @@
+In this program, your goal is to find the factorial of a number.
+
+You will have to write a function factorial() that takes an integer "x" and calculates the factorial.
+For example, inputting 5 should calculate 5! = 5 * 4 * 3 * 2 * 1 = 120
+
+To test, here are some expected input/outputs:
+
+I: factorial(5);
+O: 120
+
+I: factorial(8);
+O: 40320

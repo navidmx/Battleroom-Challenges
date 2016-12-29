@@ -1,0 +1,12 @@
+In this program, your goal is to take a SENTENCE, reverse the letters in each word, BUT keep the order of the words the same.
+
+You will have to write a function reverseSentence() that takes a string "str".
+Keep in mind, this is for a full sentence.
+
+To test, here are some expected input/outputs:
+
+I: reverseSentence("Hello World!");
+O: olleH !dlorW
+
+I: reverseSentence("123 + 321 = 444");
+O: 321 + 123 = 444
