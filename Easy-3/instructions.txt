@@ -1,0 +1,13 @@
+All of Raj's once loner friends are now happily in a relationship. Even Sheldon. Raj has hired you to manually change his status to "In a relationship," and then print the object to console, so he can prove it to his friends! 
+
+The object is given in Easy-3.js -
+
+Use a function missionImpossible(), the output should look like this:
+
+{ Leonard: 'Married',
+  Penny: 'Married',
+  Howard: 'Married',
+  Bernadette: 'Married',
+  Sheldon: 'In a relationship',
+  Amy: 'In a relationship',
+  Raj: 'In a relationship' }

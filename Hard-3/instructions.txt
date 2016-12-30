@@ -1,0 +1,10 @@
+Walter has a doctor's appointment and has to leave Jesse in charge of preparing their next cook. He left Jesse a list of solutions, amounts, and the appropriate scientific instrument to use for each step in the correct order on their laptop. However, Jesse doesn't understand Javascript format, and needs help!
+
+Use a function helpJesse() that uses a LOOP to read through the array and logs a comprehensible list of steps, formatted exactly like this:
+
+1. Pour 5 mL of Sodium Chloride into a Graduated Cylinder
+2. Pour 250 mL of Hydrochloric Acid into a Boiling Flask
+3. Pour 100 mL of Water into a Erlenmeyer Flask
+4. Pour 2 mL of Liquid Mercury into a Pipette
+5. Pour 500 mL of Sulfate into a Volumetric Flask
+6. Pour 30 mL of Phosphoric Acid into a Beaker

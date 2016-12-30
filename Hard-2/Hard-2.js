@@ -1,6 +1,32 @@
 //Please refer to the instructions in instructions.txt, and write your code here.
-//Test the given inputs in the instructions.
+//To test, use console.log(squad);
 
-function reverseSentence(str){
-    //Fill me in.
-}
+var squad = [{
+        name : "Leonard",
+        status : "Married"   
+    },
+    {
+        name : "Penny",
+        status : "Married"   
+    },
+    {
+        name : "Howard",
+        status : "Married"   
+    },
+    {
+        name : "Bernadette",
+        status : "Married"   
+    },
+    {
+        name : "Sheldon",
+        status : "In a relationship"   
+    },
+    {
+        name : "Amy",
+        status : "In a relationship"   
+    },
+    {
+        name : "Raj",
+        status : "Single"   
+    }
+];

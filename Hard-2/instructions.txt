@@ -1,12 +1,14 @@
-In this program, your goal is to take a SENTENCE, reverse the letters in each word, BUT keep the order of the words the same.
+All of Raj's once loner friends are now happily in a relationship. Even Sheldon. However, instead of getting his own girlfriend, he wants things to go back to the way they were - just four SINGLE guys and NO girls.
 
-You will have to write a function reverseSentence() that takes a string "str".
-Keep in mind, this is for a full sentence.
+An array of objects "squad" is given in Hard-2.js - You need to use a LOOP to go through all the items in the object and:
 
-To test, here are some expected input/outputs:
+1) Get rid of the three girls (Penny, Bernadette, Amy)
 
-I: reverseSentence("Hello World!");
-O: olleH !dlorW
+2) Make the status of all the remaining guys "Single"
 
-I: reverseSentence("123 + 321 = 444");
-O: 321 + 123 = 444
+Use a function manCave() that returns the variable squad the output should look like this:
+
+[ { name: 'Leonard', status: 'Single' },
+  { name: 'Howard', status: 'Single' },
+  { name: 'Sheldon', status: 'Single' },
+  { name: 'Raj', status: 'Single' } ]
